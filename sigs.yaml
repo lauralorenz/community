@@ -2020,6 +2020,10 @@ sigs:
           slack: kube-state-metrics
         owners:
           - https://raw.githubusercontent.com/kubernetes/kube-state-metrics/master/OWNERS
+      - name: kubernetes-mixin
+        description: A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+        owners:
+          - https://raw.githubusercontent.com/kubernetes-sigs/kubernetes-mixin/master/OWNERS
       - name: metric-stability-framework
         owners:
           - https://raw.githubusercontent.com/kubernetes/kubernetes/master/staging/src/k8s.io/component-base/metrics/OWNERS

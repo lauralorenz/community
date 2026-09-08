@@ -79,6 +79,10 @@ Organization of SIG Instrumentation subprojects
   - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics/blob/master/OWNERS)
 - **Contact:**
   - Slack: [#kube-state-metrics](https://kubernetes.slack.com/messages/kube-state-metrics)
+### kubernetes-mixin
+A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- **Owners:**
+  - [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin/blob/master/OWNERS)
 ### metric-stability-framework
 - **Owners:**
   - [kubernetes/kubernetes/staging/src/k8s.io/component-base/metrics](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/component-base/metrics/OWNERS)
